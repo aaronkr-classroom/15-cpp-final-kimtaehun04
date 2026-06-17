@@ -1,4 +1,4 @@
-﻿﻿#pragma once
+﻿
 // grade.h
 
 #ifndef GUARD_grade_h
